@@ -1,0 +1,179 @@
+2026-09-28 14:20:59,843 - INFO - Attendance system started
+2026-09-28 14:21:01,529 - WARNING - Unknown person detected
+2026-09-28 14:21:03,323 - WARNING - Unknown person detected
+2026-09-28 14:21:22,969 - INFO - Attendance system stopped
+2026-09-28 14:31:44,861 - INFO - Known face loaded: output-onlinejpgtools
+2026-09-28 14:31:45,773 - INFO - Known face loaded: WhatsApp Image 2026-08-28 at 19.12.00
+2026-09-28 14:31:46,031 - INFO - Known face loaded: image
+2026-09-28 14:31:47,189 - INFO - Attendance system started
+2026-09-28 14:31:48,956 - WARNING - Unknown person detected
+2026-09-28 14:31:49,117 - WARNING - Unknown person detected
+2026-09-28 14:31:49,534 - WARNING - Unknown person detected
+2026-09-28 14:31:49,701 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:49,867 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:50,034 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:50,034 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:50,210 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:50,211 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:50,365 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:50,366 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:50,537 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:50,538 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:50,703 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:50,704 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:50,867 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:50,867 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:51,037 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:51,037 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:51,200 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:51,200 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:51,369 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:51,369 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:51,535 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:51,536 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:51,701 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:51,702 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:52,197 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:52,197 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:52,365 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:52,365 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:52,531 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:52,532 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:52,947 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:52,947 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:53,114 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:53,114 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:53,280 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:53,280 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:53,446 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:53,446 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:53,616 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:53,616 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:53,784 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:53,784 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:53,949 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:53,949 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:54,114 - WARNING - Unknown person detected
+2026-09-28 14:31:54,277 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:54,277 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:54,375 - WARNING - Unknown person detected
+2026-09-28 14:31:54,533 - WARNING - Unknown person detected
+2026-09-28 14:31:54,698 - WARNING - Unknown person detected
+2026-09-28 14:31:54,863 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:54,863 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:55,028 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:55,028 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:55,209 - WARNING - Unknown person detected
+2026-09-28 14:31:55,363 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:55,363 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:55,531 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:55,531 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:55,698 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:55,698 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:55,867 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:55,868 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:56,031 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:56,031 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:56,198 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:56,198 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:56,364 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:56,365 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:56,533 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:56,534 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:56,700 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:56,700 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:56,862 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:56,863 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:56,961 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:56,961 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:57,111 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:57,111 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:57,281 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:57,281 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:57,446 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:57,447 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:57,611 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:57,611 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:57,782 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:57,782 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:57,951 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:57,952 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:58,159 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:58,159 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:58,286 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:31:58,287 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:31:58,449 - WARNING - Unknown person detected
+2026-09-28 14:31:58,615 - WARNING - Unknown person detected
+2026-09-28 14:32:08,279 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:32:08,279 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:32:08,607 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:32:08,607 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:32:09,192 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:32:09,192 - INFO - Attendance marked: output-onlinejpgtools
+2026-09-28 14:32:09,783 - INFO - Attendance system stopped
+2026-09-28 14:35:03,529 - INFO - Known face loaded: harshitha
+2026-09-28 14:35:04,663 - INFO - Known face loaded: Bhavya
+2026-09-28 14:35:04,907 - INFO - Known face loaded: vaishnavi
+2026-09-28 14:35:05,961 - INFO - Attendance system started
+2026-09-28 14:35:08,068 - WARNING - Unknown person detected
+2026-09-28 14:35:08,314 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:08,316 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:08,481 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:08,481 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:08,730 - WARNING - Unknown person detected
+2026-09-28 14:35:09,246 - WARNING - Unknown person detected
+2026-09-28 14:35:09,397 - WARNING - Unknown person detected
+2026-09-28 14:35:09,561 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:09,561 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:09,725 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:09,726 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:09,897 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:09,898 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:10,076 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:10,079 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:10,232 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:10,232 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:10,398 - WARNING - Unknown person detected
+2026-09-28 14:35:10,562 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:10,563 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:10,730 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:10,730 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:10,895 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:10,895 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:11,067 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:11,067 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:11,232 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:11,232 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:11,396 - WARNING - Unknown person detected
+2026-09-28 14:35:14,063 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:14,063 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:14,393 - WARNING - Unknown person detected
+2026-09-28 14:35:14,642 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:14,643 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:14,894 - WARNING - Unknown person detected
+2026-09-28 14:35:15,060 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:15,060 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:15,231 - WARNING - Unknown person detected
+2026-09-28 14:35:15,390 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:15,391 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:15,558 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:15,559 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:15,891 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:15,892 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:16,063 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:16,063 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:16,225 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:16,225 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:16,646 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:16,646 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:16,978 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:16,978 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:17,155 - WARNING - Unknown person detected
+2026-09-28 14:35:17,491 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:17,492 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:17,731 - WARNING - Unknown person detected
+2026-09-28 14:35:18,089 - WARNING - Unknown person detected
+2026-09-28 14:35:18,723 - WARNING - Unknown person detected
+2026-09-28 14:35:19,141 - ERROR - Attendance check error: 'Name'
+2026-09-28 14:35:19,141 - INFO - Attendance marked: Bhavya
+2026-09-28 14:35:19,312 - INFO - Attendance system stopped
